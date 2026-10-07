@@ -1,4 +1,2 @@
-- Hi there, I'm Younes👋
-- Currently a graduate researcher at the University of Toronto  
-- Working on model compression and deployment optimization for large language models
-- Interested in high-performance computing and efficiency in ML 
+- Hi there, I'm Younes👋  
+- Working on model and inference optimization at Nvidia
